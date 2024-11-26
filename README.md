@@ -7,9 +7,9 @@
 
 ## Team Members:
 
-1. Louis Miranda [@louismiranda](https://github.com/louismiranda)
-2. Bond Surber [@bondsurber](https://www.github.com/bondsurber)
-3. Sidd Kawatra [@siddKawatra](https://github.com/siddKawatra)
+1. Bond Surber [@bondsurber](https://www.github.com/bondsurber)
+2. Sidd Kawatra [@siddKawatra](https://github.com/siddKawatra)
+3. Louis Miranda [@louismiranda](https://github.com/louismiranda)
 
 ## Description of dataset:
 
@@ -79,4 +79,4 @@ For our question 2 analysis, we utilized the Tableau's "Forecast" tool to predic
 
 ## Tableau packaged workbook
 
-The packaged workbook containing the visualizations shown above is attached to this repository.
+The packaged workbook is attached via ELC (too big to attach to this)
