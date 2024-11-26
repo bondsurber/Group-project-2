@@ -80,3 +80,31 @@ For our question 2 analysis, we utilized the Tableau's "Forecast" tool to predic
 ## Tableau packaged workbook
 
 The packaged workbook is attached via ELC (too big to attach to this)
+
+## Presentation slide deck 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/b46889b3-f21d-4fb1-9e6e-d536e0130baa">
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/55ad7989-bfc1-412c-8319-31051830f943">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/cab79396-046b-43dc-9ae0-a1b093937f46">
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/2a2a4ee1-74b0-4975-aa42-6cd8bf607afe">
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/28634eed-18d2-4943-9d43-5f4ed3126217">
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/e18bcfe8-046f-469d-b2dc-1253fcf93bb3">
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/7959af98-f93b-40c8-bd25-f2753dacf9a3">
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/1cb3ad8c-7e45-4a13-bb82-f77874443a02">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/b5993533-912b-4ade-9496-fb69e93311dc">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/c60bbb28-e8a5-42f6-8fff-169a48e3f752">
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/3d894e70-a80b-41fd-9423-66c732ce2fe0">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/fdc66e35-3145-4674-bf63-221ec816760c">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/1a0b7f07-346e-4f84-a600-c2c7770fd868">
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/afca8170-8346-4f70-9e2d-4eb5df1f9946">
+
+
+
+
+
+
+
+
+
+
+
+
